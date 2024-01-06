@@ -1,0 +1,1 @@
+[    {      "ip": "185.189.15.22",      "port": 5080,      "x2": false,      "name": "RED BONUS",      "online": 20,      "maxonline": 1000    } ]
