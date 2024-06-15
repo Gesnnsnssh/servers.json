@@ -1,10 +1,10 @@
 [    
   { 
-    "ip": "185.189.15.22",   
-  "port": 5080,   
+    "ip": "194.93.2.226",   
+  "port": 17879,   
   "x2": false,     
-  "name": "RED BONUS",   
-  "online": 20,    
+  "name": "MARTIN BONUS",   
+  "online": 6,    
   "maxonline": 1000  
   } 
 ]
