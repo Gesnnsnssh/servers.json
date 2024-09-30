@@ -1,10 +1,10 @@
-[    
-  { 
-    "ip": "194.93.2.226",   
-  "port": 17879,   
-  "x2": false,     
-  "name": "MARTIN BONUS",   
-  "online": 6,    
-  "maxonline": 1000  
-  } 
+[
+    {
+      "ip": "194.93.2.226",
+      "port": 17879,
+      "x2": true,
+      "name": "MARTIN BONUS",
+      "online": 5,
+      "maxonline": 1000
+    }
 ]
