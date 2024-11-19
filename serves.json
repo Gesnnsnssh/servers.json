@@ -1,8 +1,8 @@
 [
     {
       "ip": "194.93.2.226",
-      "port": 5939,
-      "x2": "true",
+      "port": 5889,
+      "x2": "false",
       "name": "MARTINI BONUS",
       "online": 10,
       "maxonline": 1000
